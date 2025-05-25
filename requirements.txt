@@ -1,0 +1,4 @@
+black==25.1.0
+langchain-core==0.3.61
+langchain-ollama==0.3.3
+streamlit==1.45.1
